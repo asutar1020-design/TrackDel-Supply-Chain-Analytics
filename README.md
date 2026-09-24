@@ -141,17 +141,8 @@ TrackDel-Supply-Chain-Delivery-Performance-Dashboard
 ├── README.md
 ├── LICENSE
 └── requirements.txt
-```
 
----
 
-## Author
-
-**Tanishq**
-
-Computer Science & Engineering Student
-
-Aspiring Data Analyst
 
 ---
 
